@@ -1,0 +1,111 @@
+Totally illiterate, never recommend:
+https://www.python-course.eu
+
+"Consenting adults":
+https://stackoverflow.com/questions/14594120/python-read-only-property
+
+Super! Read-only metaclass:
+https://gist.github.com/rIZenAShes/8469932
+
+Useful for samples:
+http://tldp.org/LDP/abs/html/standard-options.html
+
+-h
+--help
+Help: Give usage message and exit.
+
+-v
+--version
+Version: Show program version and exit.
+
+-a
+--all
+All: show all information or operate on all arguments.
+
+-l
+--list
+List: list files or arguments without taking other action.
+
+-o
+Output filename
+
+-q
+=============
+n
+Number of iterations. resxtop (or esxtop) collects and saves statistics this number of times, and then exits.
+
+server
+The name of the remote server host to connect to (required, resxtop only).
+
+vihost
+If you connect indirectly (through vCenter Server), this option should contain the name of the ESXi host you connect to. If you connect directly to the ESXi host, this option is not used. Note that the host name needs to be the same as what appears in the vSphere Client. portnumber
+	
+The port number to connect to on the remote server. The default port is 443, and unless this is changed on the server, this option is not needed. (resxtop only)
+username
+
+--quiet
+Quiet: suppress stdout.
+
+-r
+--recursive
+Recursive: Operate recursively (down directory tree).
+
+-v
+--verbose
+Verbose: output additional information
+
+-f
+--file
+File: filename follows.
+
+-f
+--force
+
+Bash:
+
+-r
+--restricted
+Runs the shell, or a script, in restricted mode.
+
+--posix
+Forces Bash to conform to POSIX mode.
+===
+-i
+--input
+===
+
+http://cookiecutter.readthedocs.io/en/latest/advanced/cli_options.html
+
+-V, --version
+Show the version and exit.
+
+--no-input
+Do not prompt for parameters and only use cookiecutter.json file content
+
+-c, --checkout
+branch, tag or commit to checkout after git clone
+
+-v, --verbose
+Print debug information
+
+--replay
+Do not prompt for parameters and only use information entered previously
+
+-f, --overwrite-if-exists
+Overwrite the contents of the output directory if it already exists
+
+-o, --output-dir
+Where to output the generated project dir into
+
+--config-file
+User configuration file
+
+--default-config
+Do not load a config file. Use the defaults instead
+
+--debug-file
+File to be used as a stream for DEBUG logging
+
+-p
+--protocol
+tcp udp
