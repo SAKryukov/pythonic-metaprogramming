@@ -1,0 +1,11 @@
+CommandLineParser:
+	help:
+		design better help output arount "Valid"
+		design review: how to show BNF
+	BNF: review design, complete strict BNF
+
+implement tests
+	all know aspects tested, can be refined
+
+bugs:
+	FIXED, need nore testing
